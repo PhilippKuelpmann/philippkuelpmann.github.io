@@ -15,3 +15,13 @@ blockquote {
   border-left: 2px solid;
   padding-left: 20px;
 }
+
+.paper-abstract > summary {
+  color: #155dc8;
+  cursor: pointer;
+}
+
+.paper-abstract > summary:hover,
+.paper-abstract > summary:focus-visible {
+  text-decoration: underline;
+}
