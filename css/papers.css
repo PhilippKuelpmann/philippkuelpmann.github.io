@@ -3,6 +3,7 @@
 }
 
 .paper-actions > .paper-abstract > summary {
+  color: #000;
   width: max-content;
 }
 
