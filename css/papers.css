@@ -1,0 +1,14 @@
+.paper-actions {
+  position: relative;
+}
+
+.paper-actions > .paper-abstract > summary {
+  width: max-content;
+}
+
+.paper-actions > .paper-materials {
+  position: absolute;
+  top: 0;
+  inset-inline-start: 6.5rem;
+  line-height: 1.5rem;
+}
